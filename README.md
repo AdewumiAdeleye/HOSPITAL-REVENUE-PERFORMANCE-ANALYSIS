@@ -33,3 +33,8 @@ This relates to the exploration of data and answering questions about the data. 
 5. What is the total collections by revenue point?
 6. Identify the top 4 performing hospital services.
 
+## DATA ANALYSIS
+
+## DATA VISUALISATION
+
+## RECOMMENDATIONS
